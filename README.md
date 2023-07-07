@@ -1,2 +1,3 @@
 # Data Visualization in Python
-This is 
+## I. Why Visualization? 
+Data visualization is one of the key components in exploratory data analysis (EDA) in the data analytics process. EDA allows data scientists to have a quick overview of the data and inform the directions for further inferential or predictive analysis (e.g., regression, model design). Data visualization is an impactful way to do EDA, for example, it is much easier to observe trends from a line graph as compared to reading a series of numbers. However, data visualizations have to be done thoughtfully. From the choice of the graphs to the visual design elements (e.g., colours, fonts), these are all important decisions that data scientists have to make meaningfully. 
