@@ -19,3 +19,11 @@ Bar plots are great for visualizing counts of categorical data, such as the popu
 
 For example, in the below barplot, by stacking the subcategory - Sex - readers can see the trend of the total across years and the distribution (in number) at the same time. 
 ![newplot (1)](https://github.com/teresalau/Data_Viz_in_Python/assets/113483358/ea926882-f019-4dd2-932a-17a0b9a407a2)
+
+### 4.2: Line Plots
+Line plots are great for visualizing trends over time because the readers' sightlines can follow the line to conclude if things have gone up, down, or remained constant. However, it is imperative to have a consistent, equal increments on the y-axis, as it is one of the easiest way to skew the results. Having a skewed, uneven unit on the y-axis is one of the most common ways to misuse the line graph and exaggerate the uptake or decline experienced in the actual data. 
+
+In the below example, it is very obvious that Europe has the highest number of migrant stock but Asia has experienced as steeper growth based on the slope of the line. These trends could be hard to discover had I just display the raw data in a table! 
+![image](https://github.com/teresalau/Data_Viz_in_Python/assets/113483358/48e6a321-bbcd-4fb6-8385-992c4f4668da)
+
+
